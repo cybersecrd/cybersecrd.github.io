@@ -1,1 +1,0 @@
-<marquee>HOLA</marquee>
